@@ -2,12 +2,12 @@ pda
 ===
 
 PDA(PHP desktop application)
+ 
+支持php和JS的zend编译优化 
+
 contact: goodook@163.com 
-
 目前已完成的特性： 
-
 1.web based UI.
-
 基于web的UI 
 2.PHP call Javascript directly. 
 php 调用 JS 

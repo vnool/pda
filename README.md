@@ -28,14 +28,14 @@ JS 调用 PHP
 5.web user events call back php code..
 web事件回调PHP
 
-6.call win32 api directly..
+6.call win32 api directly..<br>
 php调用win api
 
-7.multi-thread support.
+7.multi-thread support.<br>
 php多实例多线程
 
-8.PHP and Javascript could be compiled.
+8.PHP and Javascript could be compiled.<br>
 提供了 PHP，JS 的编译后运行
 
-9.Zend optimizer for php and js.
+9.Zend optimizer for php and js.<br>
 支持php和JS的zend编译优化 

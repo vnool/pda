@@ -10,15 +10,19 @@ contact: goodook@163.com
 目前已完成的特性：
 
 1.web based UI
+
 基于web的UI 
 
-2.PHP call Javascript directly. 
+2.PHP call Javascript directly.
+
 php 调用 JS 
 
 3.PHP directly control the element of web.
+
 PHP直接控制浏览器界面元素 
 
 4.Javascript call php code directly.
+
 JS 调用 PHP
 
 5.web user events call back php code..

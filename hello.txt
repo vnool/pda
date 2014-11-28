@@ -1,18 +1,18 @@
-±à¼­main.htmÓëmain.php
+ç¼–è¾‘main.htmä¸main.php
 
 ----------------------------------------------------------
-main.htm´úÂë
+main.htmä»£ç 
 
 <html>
-<title>ÎÒµÄµÚÒ»¸öphp×ÀÃæ³ÌĞò</title>
+<title>æˆ‘çš„ç¬¬ä¸€ä¸ªphpæ¡Œé¢ç¨‹åº</title>
 <body>
- <input type=button id=button1 value=" ÓÃphp´´½¨ÎÄ¼ş ">
+ <input type=button id=button1 value=" ç”¨phpåˆ›å»ºæ–‡ä»¶ ">
 </body>
 </html>
 
 ---------------------------------------------------------
 
-main.php´úÂë
+main.phpä»£ç 
 
 <?
 
@@ -22,10 +22,10 @@ function main()
 }
 function button1_onclick() 
 { 
- $APP->Message("Hello World!"); //µ¯³öÏûÏ¢ 
- file_put_contents("test.txt", "Hello World (PDA)" ); //Ğ´ÎÄ¼ş
+ $APP->Message("Hello World!"); //å¼¹å‡ºæ¶ˆæ¯ 
+ file_put_contents("test.txt", "Hello World (PDA)" ); //å†™æ–‡ä»¶
 } 
 
 ?>
 --------------------------------------------------------
-[step2]. È»ºóÔËĞĞ PAD.exe
+[step2]. ç„¶åè¿è¡Œ PAD.exe

@@ -1,0 +1,6 @@
+    PDA.RAR           提供简单运行库+范例程序
+    Zend5enc.exe        提供php代码zend编译功能
+    Zend Optimizer.rar   执行编译后的php代码 所需扩展
+    Notepad.rar          php代码调试环境
+    php_xdebug526.rar    php调试时所需扩展
+    

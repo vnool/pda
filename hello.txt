@@ -1,4 +1,4 @@
-你只需要编辑main.htm与main.php即可
+编辑main.htm与main.php 
 
 
 main.htm代码
@@ -9,6 +9,9 @@ main.htm代码
  <input type=button id=button1 value=" 用php创建文件 ">
 </body>
 </html>
+
+
+
 main.php代码
 
 <?

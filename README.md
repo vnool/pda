@@ -1,41 +1,15 @@
-pda
+PHP Desktop Application
 ===
+PHP Desktop Application(PDA) 是PHP的桌面程序开发框架。
 
-PDA(PHP desktop application)
- 
-支持php和JS的zend编译优化 
-
-contact: goodook@163.com
-
-目前已完成的特性：
-
-1.web based UI
-
-基于web的UI 
-
-2.PHP call Javascript directly.
-
-php 调用 JS 
-
-3.PHP directly control the element of web.
-
-PHP直接控制浏览器界面元素 
-
-4.Javascript call php code directly.
-
-JS 调用 PHP
-
-5.web user events call back php code..
-web事件回调PHP
-
-6.call win32 api directly..<br>
-php调用win api
-
-7.multi-thread support.<br>
-php多实例多线程
-
-8.PHP and Javascript could be compiled.<br>
-提供了 PHP，JS 的编译后运行
-
-9.Zend optimizer for php and js.<br>
-支持php和JS的zend编译优化 
+本框架可以让服务器php用户轻易地转移到桌面应用程序的开发（1天即可熟悉本框架的运用）。
+框架有如下特性可以让你快速开发出优秀的桌面程序:
+  1. 界面和功能分离。 基于web的UI，与基于PHP的功能配合，让程序开发更易模块化 (参考我的第一个程序)
+  2. PHP直接调用 JS 代码  (参考$WIN->jsExec)
+3. PHP直接控制web页面元素  (参考UI对象)
+4. JS 直接调用 PHP代码  (参考php对象)
+5. web事件直接回调PHP代码  (参考$WIN->AddEvent)
+6. PHP调用Winows Api  (参考$APP->Win32API)
+7. PHP多实例多线程  (参考Task对象)
+8. 提供了 PHP，JS 的编译后运行（可用于代码加密）  (参考加密)
+9. 支持php和JS的zend编译优化  (参考加密)

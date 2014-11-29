@@ -4,6 +4,7 @@ PHP Desktop Application
 author：goodook@163.com
  
 本框架可以让php开发者，轻易地转移到桌面应用程序的开发，快速开发出优秀的桌面程序，（1天即可熟悉本框架的运用）。
+![](http://phpdesktop.sinaapp.com/manual/imgs/hello.png) 
 框架特性：
 ---
 ####1. 界面和功能分离。 
@@ -26,5 +27,3 @@ author：goodook@163.com
 (参考加密)
 ####10. 断点调试
 php基于xdebug的断点调试，JS基于ie内核断点调试
-
-![](http://phpdesktop.sinaapp.com/manual/imgs/hello.png) 

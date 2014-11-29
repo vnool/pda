@@ -26,3 +26,5 @@ author：goodook@163.com
 (参考加密)
 ####10. 断点调试
 php基于xdebug的断点调试，JS基于ie内核断点调试
+
+![](http://phpdesktop.sinaapp.com/manual/imgs/hello.png) 

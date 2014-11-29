@@ -2,9 +2,8 @@ PHP Desktop Application
 ===
 ###PHP Desktop Application(PDA) 是PHP的桌面程序开发框架。
 author：goodook@163.com
- 
+![](http://phpdesktop.sinaapp.com/manual/imgs/hello.png)  
 本框架可以让php开发者，轻易地转移到桌面应用程序的开发，快速开发出优秀的桌面程序，（1天即可熟悉本框架的运用）。
-![](http://phpdesktop.sinaapp.com/manual/imgs/hello.png) 
 框架特性：
 ---
 ####1. 界面和功能分离。 

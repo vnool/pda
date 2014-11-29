@@ -12,15 +12,16 @@ PHP Desktop Application
 ####3. PHP直接控制web页面元素  
 (参考UI对象，PHP代码允许直接内置于HTML内)
 ####4. JS 直接调用 PHP代码 
-(参考php对象)
+(参考页面内php对象)
 ####5. web事件直接回调PHP代码 
 (参考$WIN->AddEvent)
 ####6. PHP调用Winows Api 
 (参考$APP->Win32API)
-####7. PHP多实例多线程  
+####7. PHP定时器，PHP多实例多线程  
 (参考Task对象)
 ####8. 提供了 PHP，JS 的编译后运行
 （可用于UI资源加密）  (参考加密章节)
 ####9. 支持php和JS的zend编译优化 
 (参考加密)
 ####10. 断点调试
+php基于xdebug的断点调试，JS基于ie内核断点调试

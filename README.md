@@ -10,7 +10,7 @@ PHP Desktop Application
 ####2. PHP直接调用 JS 代码  
 (参考$WIN->jsExec)
 ####3. PHP直接控制web页面元素  
-(参考UI对象)
+(参考UI对象，PHP代码允许直接内置于HTML内)
 ####4. JS 直接调用 PHP代码 
 (参考php对象)
 ####5. web事件直接回调PHP代码 
